@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="162.85878"
+   height="28.280916"
+   viewBox="0 0 43.089718 7.4826592"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="pokedex.svg"
+   inkscape:export-filename="pokedex.svg"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     shape-rendering="auto"
+     showguides="true"
+     inkscape:zoom="3.111639"
+     inkscape:cx="105.08931"
+     inkscape:cy="63.15"
+     inkscape:window-width="2558"
+     inkscape:window-height="1351"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="9.5993257,187.51526"
+       orientation="-1,0"
+       id="guide1"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="319.42639,187.51526"
+       orientation="-1,0"
+       id="guide2"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="9.5993257,173.22776"
+       orientation="0,1"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="texture"
+     style="display:inline"
+     transform="translate(-2.5715073,-3.6298386)">
+    <g
+       id="g4"
+       inkscape:label="left-corner"
+       style="display:inline;fill:#ff0000">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.872331"
+         id="path3"
+         cx="6.3128366"
+         cy="7.3711681"
+         r="3.7413294" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.05833;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.3128365,7.371168 H 45.661225"
+         id="path4" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.674074"
+         id="use94"
+         cx="41.345284"
+         cy="7.3711681"
+         r="2.8910272"
+         inkscape:tile-x0="36.583593"
+         inkscape:tile-y0="4.4801408" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.674074"
+         id="use95"
+         cx="32.672203"
+         cy="7.3711681"
+         r="2.8910272"
+         inkscape:tile-x0="36.583593"
+         inkscape:tile-y0="4.4801408" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.674074"
+         id="use96"
+         cx="23.999123"
+         cy="7.3711681"
+         r="2.8910272"
+         inkscape:tile-x0="36.583593"
+         inkscape:tile-y0="4.4801408" />
+      <circle
+         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke-width:0.797943"
+         id="circle96"
+         cx="6.3128366"
+         cy="7.3711681"
+         r="3.4222829" />
+      <circle
+         style="fill:#b61616;fill-opacity:1;stroke-width:0.60398"
+         id="circle103"
+         cx="23.999123"
+         cy="7.3711681"
+         r="2.5904"
+         inkscape:tile-x0="36.583593"
+         inkscape:tile-y0="4.4801408" />
+      <circle
+         style="fill:#e4e400;fill-opacity:1;stroke-width:0.60398"
+         id="circle104"
+         cx="32.672203"
+         cy="7.3711681"
+         r="2.5904"
+         inkscape:tile-x0="36.583593"
+         inkscape:tile-y0="4.4801408" />
+      <circle
+         style="fill:#008000;fill-opacity:1;stroke-width:0.60398"
+         id="circle105"
+         cx="41.345284"
+         cy="7.3711681"
+         r="2.5904"
+         inkscape:tile-x0="36.583593"
+         inkscape:tile-y0="4.4801408" />
+    </g>
+  </g>
+</svg>
